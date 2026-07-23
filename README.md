@@ -18,12 +18,12 @@ Follow these steps to deploy and run ReconX in your environment.
 Open your terminal and clone the project directory down from GitHub:
 
 ```bash
-git clone https://github.com/chaudharyharis835-pixel/ReconX.git
+git clone [https://github.com/chaudharyharis835-pixel/ReconX.git](https://github.com/chaudharyharis835-pixel/ReconX.git)
 cd ReconX
 chmod +x Reconx.py
 python3 Reconx.py
-### step 2: see output on browser
-after scanning complete run the below commands and it will redirect you to browser automatically:
+
+# ### Step 2: See output on browser
+# After scanning is complete, run the below commands and it will redirect you to the browser automatically:
 cd reports
 xdg-open recon_output.html
-
