@@ -282,7 +282,7 @@ def main():
     print("                      RECONX INTERACTIVE RUNTIME MANAGER                        ")
     print("================================================================================")
     
-    target = input("\n[?] Enter Target (e.g., scanme.nmap.org or 192.168.129.129): ").strip()
+    target = input("\n[?] Enter Target (e.g., scanme.nmap.org or 192.168.127.149): ").strip()
     if not target:
         print(f"{R}[- ] Error: Target cannot be blank.")
         return
