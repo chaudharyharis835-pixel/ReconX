@@ -1,0 +1,21 @@
+# ReconX: Automated Cybersecurity Reconnaissance Engine
+An integrated, multi-threaded asset exploration and attack-surface mapping framework optimized for Python 3 environments on Linux and Windows. Developed for the NCERT Academic Framework.
+
+## Features
+* **Host Discovery Engine**: Low-overhead ICMP network layer presence validation.
+* **Concurrent Scanner Pool**: Asynchronous multi-threaded TCP socket scanning utilizing a configurable `ThreadPoolExecutor`.
+* **Service Interrogator**: Low-overhead banner grabbing to pull application version signatures.
+* **Passive Intelligence Routing**: Automatic target parsing—runs domain registry lookups for public targets while automatically bypassing internal networks (RFC 1918) to avoid timeouts.
+* **Reporting Fabric**: Simultaneous compilation of plaintext charts, structured machine-readable JSON matrices, and an executive HTML management dashboard.
+
+---
+
+## Linux Installation Guide
+
+Follow these steps to deploy and run ReconX on any Linux distribution (Ubuntu, Debian, Kali, CentOS):
+
+### Step 1: Clone the Repository
+Open your terminal and clone the project directory down from GitHub:
+```bash
+git clone [https://github.com/YOUR_GITHUB_USERNAME/ReconX.git](https://github.com/YOUR_GITHUB_USERNAME/ReconX.git)
+cd ReconX
