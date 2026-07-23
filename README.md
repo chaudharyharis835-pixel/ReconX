@@ -20,3 +20,6 @@ Open your terminal and clone the project directory down from GitHub:
 ```bash
 git clone https://github.com/chaudharyharis835-pixel/ReconX.git
 cd ReconX
+chmod +x Reconx.py
+python3 Reconx.py
+
