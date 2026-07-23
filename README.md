@@ -10,12 +10,13 @@ An integrated, multi-threaded asset exploration and attack-surface mapping frame
 
 ---
 
-## Linux Installation Guide
+## Installation & Deployment Guide
 
-Follow these steps to deploy and run ReconX on any Linux distribution (Ubuntu, Debian, Kali, CentOS):
+Follow these steps to deploy and run ReconX in your environment.
 
 ### Step 1: Clone the Repository
 Open your terminal and clone the project directory down from GitHub:
+
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/ReconX.git](https://github.com/YOUR_GITHUB_USERNAME/ReconX.git)
+git clone [https://github.com/chaudharyharis835-pixel/ReconX.git](https://github.com/chaudharyharis835-pixel/ReconX.git)
 cd ReconX
