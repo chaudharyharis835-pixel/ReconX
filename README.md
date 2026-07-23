@@ -22,4 +22,8 @@ git clone https://github.com/chaudharyharis835-pixel/ReconX.git
 cd ReconX
 chmod +x Reconx.py
 python3 Reconx.py
+### step 2: see output on browser
+after scanning complete run the below commands and it will redirect you to browser automatically:
+cd reports
+xdg-open recon_output.html
 
