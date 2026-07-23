@@ -18,5 +18,5 @@ Follow these steps to deploy and run ReconX in your environment.
 Open your terminal and clone the project directory down from GitHub:
 
 ```bash
-git clone [https://github.com/chaudharyharis835-pixel/ReconX.git](https://github.com/chaudharyharis835-pixel/ReconX.git)
+git clone https://github.com/chaudharyharis835-pixel/ReconX.git
 cd ReconX
